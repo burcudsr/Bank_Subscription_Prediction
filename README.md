@@ -19,6 +19,3 @@ Various classification algorithms were evaluated to determine the most effective
 | Model | Accuracy | Precision | Recall | F1 |
 | :--- | :--- | :--- | :--- | :--- |
 | **RandomForestClassifier** | **0.930073** | **0.768926** | **0.601061** | **0.674709** |
-
-### 📈 Analysis Summary
-The `RandomForestClassifier` achieved the highest performance with an accuracy of approximately 93%. The confusion matrix analysis confirms that the model is particularly effective in classifying negative outcomes, making it the most reliable choice for this marketing prediction task.
