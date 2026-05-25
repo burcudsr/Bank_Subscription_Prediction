@@ -10,7 +10,7 @@ The dataset is comprehensive, comprising 750,000 entries in the training set and
 
 ### 🛠️ Data Preprocessing
 To ensure model robustness and accuracy, the following preprocessing steps were implemented:
-* **Feature Scaling**: Numerical columns (int64, float64, int32) were scaled using `StandardScaler`.
+* **Feature Scaling**: Numerical columns were scaled using `StandardScaler`.
 * **Encoding**: Categorical features (object) were processed using `OrdinalEncoder`.
 
 ### 🏆 Model Performance
