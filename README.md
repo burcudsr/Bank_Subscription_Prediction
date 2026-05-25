@@ -1,6 +1,6 @@
 # 🏦 Bank Marketing Prediction Model
 
-This project focuses on predicting customer response to bank marketing campaigns (the target variable `y`) using a large-scale tabular dataset. The study was developed as part of the **Kaggle Playground Series - Season 5, Episode 8: Binary Classification with a Bank Dataset**. 
+This project focuses on predicting customer response to bank marketing campaigns (the target variable `y`) using a large-scale tabular dataset. The study was developed as part of the **Kaggle Playground Series - Season 5, Episode 8**. 
 
 ### 🚀 Live Demo
 Explore the prediction model here: **[Bank Marketing Prediction App](https://huggingface.co/spaces/bdaser/Bank_Marketing)**
